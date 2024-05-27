@@ -1,0 +1,4 @@
+baseURL = 'https://lstendard.github.io/'
+languageCode = 'en-us'
+title = 'This is a Test'
+theme = 'ananke'
